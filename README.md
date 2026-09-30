@@ -49,17 +49,17 @@
 
 <h2>📊 GitHub Stats:</h2>
 
-![](https://github-readme-stats.vercel.app/api?username=sidharth8338&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sidharth8338&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sidharth8338&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats-fast.vercel.app/api?username=sidharth8338&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=sidharth8338&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sidharth8338&theme=dark&hide_border=false&layout=compact)
 
 <h2>🏆 GitHub Trophies</h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sidharth8338&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-trophies.vercel.app/?username=sidharth8338&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<h2>🔝 Top Contributed Repo</h2>
+<h2>🔝 Profile Summary</h2>
 
-![](https://github-contributor-stats.vercel.app/api?username=sidharth8338&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sidharth8338&theme=github_dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sidharth8338&icon=0&color=1)](https://visitcount.itsvg.in)
+![Profile views](https://komarev.com/ghpvc/?username=sidharth8338&color=blue)
